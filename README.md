@@ -9,10 +9,13 @@ This project makes use of **git** and **github** to simulate working with a loca
 
 ### Files used
 **Files used in this project:**
-*bikeshare.py
-*chicago.csv
-*new_york_city.csv
-*washington.csv
+1. bikeshare.py
+2. chicago.csv
+3. new_york_city.csv
+4. washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+For this project I used the [Markdown quick reference][1] as well as the [Markdown syntax][2] documents as references 
+
+[1]:https://en.support.wordpress.com/markdown-quick-reference/
+[2]:https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
