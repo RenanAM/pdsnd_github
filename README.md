@@ -15,7 +15,9 @@ This project makes use of **git** and **github** to simulate working with a loca
 4. washington.csv
 
 ### Credits
-For this project I used the [Markdown quick reference][1] as well as the [Markdown syntax][2] documents as references 
+For this project I used the [Markdown quick reference][1] as well as the [Markdown syntax][2] documents as references. I also used **Udacity's** [_Create your own adventure_][3] repo and **Udacity's** [_Writing READMEs_][4] as references to write this document   
 
 [1]:https://en.support.wordpress.com/markdown-quick-reference/
 [2]:https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+[3]:https://github.com/udacity/create-your-own-adventure
+[4]:https://classroom.udacity.com/courses/ud777
