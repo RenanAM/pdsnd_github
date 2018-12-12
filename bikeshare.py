@@ -216,14 +216,14 @@ def user_stats(df):
         print('\nBelow are also some interesting gender stats.\n')
         print("Here's how many of each gender there are:\n{}".format(gender_types))
 
-        early_byear = df['Birth Year'].min()
-        recent_byear = df['Birth Year'].max()
-        popular_byear = df['Birth Year'].mode()[0]
+        early_bday = df['Birth Year'].min()
+        recent_bday = df['Birth Year'].max()
+        popular_bday = df['Birth Year'].mode()[0]
 
         print('\nBelow are also some interesting Bday stats.')
-        print("\nHere's the earliest Bday year: {}".format(int(early_byear)))
-        print("\nHere's the most recent Bday year: {}".format(int(recent_byear)))
-        print("\nHere's the most common Bday year: {}".format(int(popular_byear)))
+        print("\nHere's the earliest Bday year: {}".format(int(early_bday)))
+        print("\nHere's the most recent Bday year: {}".format(int(recent_bday)))
+        print("\nHere's the most common Bday year: {}".format(int(popular_bday)))
         print("\nIsn't that some cool information?")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
