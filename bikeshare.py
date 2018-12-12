@@ -20,7 +20,7 @@ def get_filters():
     while True:
         city_input = input('Please type your city of choice: ').lower()
         if city_input not in CITY_DATA:
-            print("\nSorry, this is not a valid city.\nPlease select between: Chicago, New York City and Washington\n")
+            print("\nSorry, this is not a valid city. Please select between: Chicago, New York City and Washington\n")
             continue
         else:
             city = city_input
